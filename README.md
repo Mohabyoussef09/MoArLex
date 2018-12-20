@@ -10,5 +10,5 @@ If you use this lexicon, please cite the following paper: Mohab. Y and Samhaa R.
 Mohab. Y and Samhaa R. El-Beltagy, "MoArLex: An Arabic Sentiment Lexicon Built Through Automatic Lexicon Expansion" Procedia Computer Science, vol. 142, pp. 94–103, 2018.
 
 
-http://github.com - automatic!
-[GitHub](https://www.sciencedirect.com/science/article/pii/S1877050918321665)
+ 
+[Read the Full-Text Paper](https://www.sciencedirect.com/science/article/pii/S1877050918321665)
